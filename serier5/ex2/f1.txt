@@ -1,0 +1,2 @@
+Apprendre a programmer
+Python est un langage de programmation
